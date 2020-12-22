@@ -1,4 +1,4 @@
-# Spam Brutal All For One
+# Spam Brutal AllOTP
 SPAM BRUTAL SMS, CALL, WA By RayhanGanz
 
 Tutorial:

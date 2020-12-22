@@ -615,7 +615,7 @@ class spam:
 try:
  os.system("clear")
  bnr()
- menu=["Mulai","WhatsappAdmin","Info Tools","Update"]
+ menu=["Mulai","Whatsapp Rayhan","Info Tools","Update"]
  print (f"         {tot}Spam By RayhanGanz{sop}        ")
  for i in range(len(menu)):
    print (f"{ken} [0"+str(i+1).ljust(1)+"] \033[31m"+menu[i])

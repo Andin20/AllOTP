@@ -11,9 +11,9 @@ def bnr():
        {im}╔═╗┬  ┬{anj}    {im}╔═╗┌─┐┬─┐  {anj}╔═╗┌┐┌┌─┐
        {anj}╠═╣│  │{im}    {anj}╠╣ │ │├┬┘  {im}║ ║│││├┤ 
        {im}╩ ╩┴─┘┴─┘{anj}  {im}╚  └─┘┴└─  {anj}╚═╝┘└┘└─┘
-{im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-{kun}[$] Author : {kin}RayhanGanz
-{kun}[$] Nama SC : {kin}Spammer
-{kun}[$] Github : {kin}https://github.com/RayhanZ75
-{kun}[$] Youtube : {kin}Nothing
-{im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••""")
+{im}••••••••••••••••••••••••••••••••••••••••••••••••••••••
+{kun}[$] Author  : {kin}RayhanGanz
+{kun}[$] Nama SC : {kin}AllOTP
+{kun}[$] Github  : {kin}https://github.com/RayhanZ75
+{kun}[$] Youtube : {kin}Gaada:v
+{im}••••••••••••••••••••••••••••••••••••••••••••••••••••••""")

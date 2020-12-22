@@ -1,4 +1,4 @@
-# Semoga, allah, melaknat orang-orang yang suka rekod sc orang, aamiin
+# Hanya Punya RayhanGanz Semoga, Allah, melaknat orang-orang yang recode sc ini aminn..
 import threading, os, sys, json, time
 from bs4 import BeautifulSoup as bs
 import requests as ru

@@ -15,15 +15,15 @@ python RaySpam.py
 </code></pre>
 # Facebook:
 
-https://www.facebook.com/RayhanGanzRGZ
+- https://www.facebook.com/RayhanGanzRGZ
 
 
 # WhatsApp:
 
-085260979370 
-https://wa.me/6285260979370
+- 085260979370 
+- https://wa.me/6285260979370
 
 # Github:
 <pre><code>
-https://github.com/Rayhan-Z75
+- https://github.com/Rayhan-Z75
 

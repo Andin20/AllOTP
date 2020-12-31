@@ -24,6 +24,6 @@ python RaySpam.py
 - https://wa.me/6285260979370
 
 # Github:
-<pre><code>
+
 - https://github.com/Rayhan-Z75
 

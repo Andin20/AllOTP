@@ -14,16 +14,16 @@ python RaySpam.py
 >>> Selesai
 </code></pre>
 # Facebook:
-<pre><code>
+
 https://www.facebook.com/RayhanGanzRGZ
-</code></pre>
+
 
 # WhatsApp:
-<pre><code>
+
 085260979370
-</code></pre>
+
 
 # Github:
 <pre><code>
 https://github.com/Rayhan-Z75
-</code></pre>
+

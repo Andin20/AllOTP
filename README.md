@@ -13,4 +13,11 @@ python RaySpam.py
 >>> Masukkan No Telepon
 >>> Selesai
 </code></pre>
-open
+# Facebook:
+https://www.facebook.com/RayhanGanzRGZ
+
+# WhatsApp:
+085260979370
+
+# Github:
+https://github.com/Rayhan-Z75

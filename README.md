@@ -6,9 +6,9 @@ Tutorial:
 apt update && apt upgrade
 pkg update
 pkg install python
-git clone https://github.com/RayhanZ75/AllOTP
+git clone https://github.com/Rayhan-Z75/AllOTP
 cd AllOTP
-pip install -r harus.txt
+
 python RaySpam.py
 >>> Pilih 1
 >>> Masukkan no telepon

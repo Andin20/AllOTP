@@ -1,29 +1,41 @@
-# Spam Brutal AllOTP
-SPAM BRUTAL SMS, CALL, WA By RayhanGanz
 
-Tutorial:
-<pre><code>
-pkg update
-pkg upgrade
-pkg install python
-git clone https://github.com/Rayhan-Z75/AllOTP
-cd AllOTP
-python RaySpam.py
->>> Pilih 1
->>> Masukkan No Telepon
->>> Selesai
-</code></pre>
-# Facebook:
+<h1 align="center">
+    ⚔️Script Spam Sms By Rayhan Ganz⚔️
+</h1>
+<h1 align="center">
+  ®️Logo Github Rayhan Ganz®️
 
-- https://www.facebook.com/RayhanGanzRGZ
+<img src="https://github.com/Rayhan-Z75/AllOTP/blob/main/Logo_Rayhan-Z75.png" />
+
+### Fitur
+```
+• 1. Mulai / Mulai Spam
+• 2. WhatsApp Rayhan
+• 3. Info Tools
+• 4. Update
 
 
-# WhatsApp:
+• Masukkan Nomor Tanpa 0 Contoh 85260979370
+• Tu Nomor Gw Jangan Di Spam Tod
+• Di Spam Gw Hapus Ni Sc Paham!😀
 
-- 085260979370 
-- https://wa.me/6285260979370
-
-# Github:
-
-- https://github.com/Rayhan-Z75
-
+```
+### Cara Install
+```
+• pkg update
+• pkg upgrade
+• pkg install python
+• pip2 install requests
+• pip2 install mechanize
+• pkg install git
+• git clone https://github.com/Rayhan-Z75/AllOTP
+```
+### Menjalankan Script
+```
+• cd AllOTP
+• python RaySpam.py
+```
+### SOSIAL MEDIA SAYA
+* [<img alt="Rayhan Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Rayhan-Z75/)<br />
+* [<img alt="Rayhan Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Facebook</b>](https://www.facebook.com/RayhanGanzRGZ)<br />
+* [<img alt="Rayhan Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6285260979370?text=Asalamualaikum+Bang)<br />

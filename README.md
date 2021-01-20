@@ -39,6 +39,7 @@
 ### Menjalankan Script
 ```
 • cd AllOTP
+• pip install -r bahan.txt
 • python RaySpam.py
 ```
 ### SOSIAL MEDIA SAYA
